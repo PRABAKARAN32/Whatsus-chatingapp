@@ -3,7 +3,7 @@ Whatsup code:
 1) Text chating
 2) Emojes
 3) Files sharing
-4) video and audio file sharing
+4) video and audio file sharing dacument sharing(PDF and jpeg).
 
 Call:
    i)Video call added
